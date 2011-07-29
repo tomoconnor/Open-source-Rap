@@ -8,7 +8,7 @@ Here's a few examples:
 
 * [open-source beer](http://en.wikipedia.org/wiki/Open_Source_Beer_Project)
 
-* [open-source cola](http://en.wikipedia.org/wiki/OpenCola_(drink))
+* [open-source cola](http://en.wikipedia.org/wiki/OpenCola_(drink\))
 
 * [open-source hardware](http://en.wikipedia.org/wiki/Open-source_hardware)
 
